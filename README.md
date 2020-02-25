@@ -1,2 +1,2 @@
 # haackerrank_problem
-just move previous code in HackerRank to here. Mainly programmed for Algorithms Grad Course Instructed by Joshua Nahum
+just move previous code in HackerRank to Github. Mainly programmed them for Algorithms Grad Course instructed by Dr. Joshua Nahum
